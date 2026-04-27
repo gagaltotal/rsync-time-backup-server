@@ -23,6 +23,8 @@
 
 ## Instalasi
 
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/rsync-time-backup-server/refs/heads/main/Screenshot%20from%202026-04-27%2010-38-32.png)
+
 Simpan `rsync_backup.sh` di folder pilihan Anda dan beri izin eksekusi:
 
 ```bash
